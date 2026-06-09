@@ -99,10 +99,10 @@ class Sudheer Kumar Nookala:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,fastapi&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=angular,typescript,react,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,typescript,react,js,html,css&theme=dark)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,gitlab,github,jenkins&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
@@ -115,7 +115,7 @@ class Sudheer Kumar Nookala:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🧰 Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,nginx,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,nginx,bash&theme=dark)](https://skillicons.dev)
 
 </div>
 
