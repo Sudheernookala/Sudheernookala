@@ -21,7 +21,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB]&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Sudheernookala&style=for-the-badge&color=blueviolet)
 
 </div>
 
