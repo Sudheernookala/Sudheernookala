@@ -74,12 +74,12 @@ class Sudheer Kumar Nookala:
 <td width="50%">
 
 ### ✍️ Content & Community
-- Writing about Python, AI & backend engineering
+- Writing about Java, AI & backend engineering
 - Sharing system design breakdowns
-- Building in public
+- Building in private and public
 
 ### 💬 Ask Me About
-`Java` `SpringBoot` `Redis` `LLMs` `AWS` `System Design` `Docker` `PostgreSQL`
+`Java` `SpringBoot` `Redis` `LLMs` `AWS` `System Design` `Docker` `PostgreSQL` `Kubernetes` `GCP` `Angular`
 
 </td>
 </tr>
