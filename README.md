@@ -11,7 +11,7 @@
 # Hi, I'm Sudheer Kumar Nookala 👋
 
 ###  11 years of hands-on experience specializing in building backend-heavy, enterprise-grade systems.
-#### Senior Software Developer
+#### Senior Software Developer | Technology Lead
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 ## 🧠 About Me
 
-```python
+```java
 class Sudheer Kumar Nookala:
     role       = "Technology Lead"
     location   = "🌍 Stuttgart , Germany"
