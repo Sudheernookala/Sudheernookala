@@ -96,13 +96,13 @@ class Sudheer Kumar Nookala:
 <div align="center">
 
 ### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=Java,SpringBoot,fastapi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,fastapi&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,typescript,react,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,github&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
