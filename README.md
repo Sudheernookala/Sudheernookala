@@ -96,7 +96,7 @@ class Sudheer Kumar Nookala:
 <div align="center">
 
 ### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Java,SpringBoot,fastapi&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
