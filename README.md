@@ -37,20 +37,20 @@
 class Sudheer Kumar Nookala:
     role       = "Technology Lead"
     location   = "🌍 Stuttgart , Germany"
-    focus      = ["Backend Systems", "AI/ML Engineering", "Scalable APIs"]
-    learning   = ["Advanced LLM Fine-tuning", "Vector DB Architecture", "System Design at Scale"]
+    focus      = "Backend Systems", "AI/ML Engineering", "Scalable APIs"
+    learning   = "Advanced LLM Fine-tuning", "Vector DB Architecture", "System Design at Scale"
     writing    = "Technical content on Java, SpringBoot, AI, and Backend Engineering"
-    open_to    = ["Collaboration", "Freelance", "Full-time Opportunities"]
+    open_to    = "Collaboration", "Freelance", "Full-time Opportunities"
 
     def ask_me_about(self):
         return [
-            "Python & Django REST APIs",
-            "FastAPI microservices",
+            "Java & Spring REST APIs",
+            "Microservices",
             "LLMs & Prompt Engineering",
-            "AWS architecture",
+            "GCP architecture",
             "PostgreSQL & MongoDB optimization",
             "Docker & containerization",
-            "React frontends",
+            "Angular frontends",
         ]
 ```
 
@@ -79,7 +79,7 @@ class Sudheer Kumar Nookala:
 - Building in public
 
 ### 💬 Ask Me About
-`Python` `Django` `FastAPI` `LLMs` `AWS` `System Design` `Docker` `PostgreSQL`
+`Java` `SpringBoot` `Redis` `LLMs` `AWS` `System Design` `Docker` `PostgreSQL`
 
 </td>
 </tr>
@@ -119,59 +119,3 @@ class Sudheer Kumar Nookala:
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB]&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB]&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB]&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Great
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_GITHUB])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
-
-<br/>
-
-*"Build systems that scale. Write code that lasts. Ship things that matter."*
-
-</div>
