@@ -35,7 +35,7 @@
 
 ```java
 class Sudheer Kumar Nookala:
-    role       = "Technology Lead"
+    role       = "Senior Software Developer"
     location   = "🌍 Stuttgart , Germany"
     focus      = "Backend Systems", "AI/ML Engineering", "Scalable APIs"
     learning   = "Advanced LLM Fine-tuning", "Vector DB Architecture", "System Design at Scale"
